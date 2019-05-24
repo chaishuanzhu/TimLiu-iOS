@@ -84,6 +84,7 @@ A curated list of iOS objective-C ecosystem.
     - [TableView@](#TableView)
     - [TableView适配@](#TableView适配)
     - [CollectionView@](#CollectionView)
+  - [动态表单@](#动态表单)
   - [下拉刷新@](#下拉刷新)
   - [模糊效果@](#模糊效果)
   - [日历三方库@](#日历三方库)
@@ -939,6 +940,9 @@ A curated list of iOS objective-C ecosystem.
 * [Eureka](https://github.com/xmartlabs/Eureka) - Eureka可以帮你简单优雅的实现动态table-view表单。它由rows,sections和forms组成。如果你的app包含大量表单，Eureka可以真正帮你节省时间.
 * [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) - A Photo and Video Gallery.
 
+#### 动态表单@
+* [XLForm](https://github.com/xmartlabs/XLForm) - XLForm 是最灵活且最强大的创建动态表单的iOS库。
+* [Eureka](https://github.com/xmartlabs/Eureka) - 动态表单Swift
 #### TableView@
 
 * [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) - 非常赞 UITableViewCell 的子类, 实现了左右滑动显示信息视图并调出按钮.
